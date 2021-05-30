@@ -103,6 +103,10 @@ p,
   font-size: 1em;
 }
 
+a:hover {
+  text-decoration: none;
+}
+
 .psmall {
   font-size: 0.9em;
 }

@@ -119,6 +119,12 @@ p,
   font-size: $fontsizeParagraph;
 }
 
+a {
+  &:hover {
+    text-decoration: none;
+  }
+}
+
 .psmall {
   font-size: $fontsizeParagraphsmall;
 }
